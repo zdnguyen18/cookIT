@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    background-size: cover;
+  }
+  
+  h1 {
+      color: white;
+      text-align: center;
+      font-size: 60px;
+  }
+  
+  .uwc img {
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+      margin-left: 2%;
+      margin-right: 2%;
+  }
+  
+  p1 {
+    font-size: 20px;
+    margin-left: 50%;
+  }
+  
+  .logIn {
+    margin-left: 50%;
+    margin-top: 0.000001%;
+  }
+  
+  
